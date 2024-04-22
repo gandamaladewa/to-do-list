@@ -45,7 +45,7 @@ class HomeScreen extends GetView<TodoController> {
               ),
               const SizedBox(height: 48),
               const Text(
-                'All ToDo List',
+                'ToDo List',
                 style: TextStyle(fontSize: 36),
               ),
               const SizedBox(height: 12),
